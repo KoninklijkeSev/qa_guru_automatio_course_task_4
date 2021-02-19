@@ -22,11 +22,7 @@ public class TestsStudentRegistrationForm extends BaseClass {
             state = "NCR",
             city = "Delhi",
             genderMale = "Male",
-            genderFemale = "Female",
-            genderOther = "Other",
-            hobbiesSports = "Sports",
-            hobbiesReading = "Reading",
-            hobbiesMusic = "Music";
+            hobbiesSports = "Sports";
 
     @Test
     void studentRegistrationForm() {
